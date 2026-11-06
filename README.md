@@ -1,2 +1,2 @@
-# gcgpricescrape
-Gundam Card Game Price Scraper
+# helio
+Helio Card App
